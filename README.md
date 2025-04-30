@@ -32,3 +32,4 @@ Streamlit for UI/UX
 
 Business Impact:
 Helps reduce inspection time and manual errors, ensures better energy yield, and enables predictive maintenance scheduling for large-scale solar installations
+
